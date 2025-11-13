@@ -15,9 +15,6 @@ and distributed systems. I focus on practical mechanisms for verifiable trust di
 ### 🧩 Contributions
 Maintainer and contributor in the Human Colossus Foundation ecosystem: OCA, DKMS (Rust implementation of KERI protocol).
 
-### 🧠 Current Exploration
-Drone ID interoperability (DIDI) and verifiable trust primitives for UAVs.
-
 ### 💬 Collaboration
 
 If your project touches cryptography, distributed trust, or post-quantum migration —  
